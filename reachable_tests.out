@@ -1,0 +1,14 @@
+These should be reachable
+{'Det->Nbar->Noun': 40}
+{'Noun->Nbar->PP->Prep': 22}
+{'Prep->NP->Det': 21}
+{'Prep->NP->Proper': 2}
+{'VerbT->NP->Det': 21}
+{'VerbT->NP->Proper': 2}
+These should not be reachable
+{}
+{}
+{}
+{}
+{}
+{}
